@@ -51,7 +51,7 @@ AUTHOR ~Daniel Valle, dan@danielvalle.net~
 
 AUTO_TRA ~LCA/TRA/%s~ //automatically associate .tras to their respective .D files
 LANGUAGE ~English~ ~english~ ~LCA/TRA/ENGLISH/XALCAEET.TRA~
-
+LANGUAGE ~Simplified Chinese（by mogui45）~ ~schinese~ ~LCA/TRA/schinese/XALCAEET.TRA~
 
 BEGIN
 @011 /* ~Love Conquers All (LCA)~ */
